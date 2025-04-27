@@ -37,7 +37,7 @@ Berikut beberapa ekstensi yang perlu diaktifkan:
 Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian
 Apache klik ``Config -> PHP.ini``
 
-![img1](assets/img/14.png)
+![img1](assets/img/1.png)
 
 Pada bagian extention, hilangkan tanda ; (titik koma) pada ekstensi yang akan
 diaktifkan. Kemudian simpan kembali filenya dan restart Apache web server.
