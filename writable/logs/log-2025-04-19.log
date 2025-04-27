@@ -1,0 +1,8 @@
+CRITICAL - 2025-04-19 09:58:20 --> ErrorException: Cannot redeclare App\Controllers\Artikel::delete()
+[Method: GET, Route: artikel]
+in APPPATH\Controllers\Artikel.php on line 90.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-04-19 09:58:28 --> ErrorException: Cannot redeclare App\Controllers\Artikel::delete()
+[Method: GET, Route: admin/artikel]
+in APPPATH\Controllers\Artikel.php on line 90.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
